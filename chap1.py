@@ -6,6 +6,7 @@
 # age = 23          #int
 # price = 35.78     #float
 # age2=age
+# print(age)
 # old=True
 # a=None
 # print(age)
@@ -42,7 +43,7 @@
 # print((A+txt)*3)
 
 #3.numeric value can operate with all arithemetic operators
-# print(5+4*8 -9/3)
+# print(5+4*8/2)
 4. #result of division operator with two integers wiil be float
 #5. integer division with float and int will give int displayed as float 
 
@@ -130,7 +131,6 @@
 # print(2**3)   #2^3
 
     #relational operrators(==,!=,>,<,>=,<=) give output in boolean(True or False)
-    
     #assingnment operators(=,+=,-=,/=,%=,**=)
 
     #logical operators(not,and,or)
@@ -149,6 +149,7 @@
 # print(sum)
 # a=4
 # b=int(6.25)
+# print(b)
 # sum = a+b
 # print(sum)
 # print(type(b))
@@ -175,10 +176,6 @@
 #wap to input 2 int numbers a,b.print True if a is greater than or equal to b.if not print false 
 # a=int(input("num1=:"))
 # b=int(input("num2=:"))
-# if(num1>=num2):
-#     print("True")
-# else:
-#     print("False")
 # print(a>=b)
 
 

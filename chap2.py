@@ -27,13 +27,13 @@
 
 
 #slicing(accesing parts of a string)
-# vabhee="this boy have a great mindset"
+#vabhee="this boy have a great mindset"
 # print(vabhee[1:5])
 # print(vabhee[:5])
 # print(vabhee[5:])
 
       #negative index
-#vabhee="this boy have a great mindset"
+# vabhee="this boy have a great mindset"
 # print(vabhee[-7:-1])
 # print(vabhee[-7:])
 
@@ -47,10 +47,10 @@
     #str.find(word) #return 1st index of 1st occurance
     
     #str.count("am") #counts the occurance of substr
-#str="vabhee have a great mindset"
+# str="vabhee have a great mindset"
 #print(str.endswith("set"))
-#print(str.capitalize())
-#print(str)   #no change in preivius str
+# print(str.capitalize())
+#print(str)   #no change in previous str
 #print(str.replace("a","o"))
 #print(str.find("have"))
 #print(str.count("a"))

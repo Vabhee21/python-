@@ -1,6 +1,6 @@
 # list in python
 
-#  marks=[83,88,88,91,96]
+# marks=[83,88,88,91,96]
 # print(marks)
 # print(type(marks))
 # print(marks[1])
@@ -26,18 +26,19 @@
 
 #list methods
  
-#list=[2,1,4]
-#list.append(7)   #add 7 at the end of list
-#list.sort()   # sort in ascending order
-#list.sort(reverse=True)   #sort in descending order
+# list=[2,1,4]
+# list.append(7)   #add 7 at the end of list
+# list.sort()   # sort in ascending order
+# print(list)
+# list.sort(reverse=True)   #sort in descending order
 #list.reverse()            #reverse list
-#list.insert(3,7)     #insert element at that indx
-#list.insert(1,5)     
+# list.insert(3,7)     #insert element at that indx
+# list.insert(1,5)     
 
-#print(list)
+# print(list)
 
-#list=[2,1,5,1,3,1]
-#list.remove(1)  #removes first occurence of elements
+# list=[2,1,5,1,3,1]
+# list.remove(1)  #removes first occurence of elements
 # list.pop(3)      #removes elements at indx
 # print(list)
 
@@ -64,7 +65,8 @@
 
 #tuple Methods
 
-#tup=(2,4,1,5,1,6)
+# tup=(2,4,1,5,1,6)
+# print(tup.index(4))
 #ind=tup.index(1)    #return indx of first occurrence
 #moye=tup.count(1)    #return total occurence of element
 #print(moye)
@@ -95,4 +97,13 @@
 # else:
 #     print("no")
 # print(l2)
+
+#WAP to count the number of students with the "A" grade in the following tuple.
+# grade=("C","D","A","A","B","B","A")
+# count=grade.count("A")
+# print(count)
+#store those values in alist &sort them from "A" to "D".
+# glist=["C","D","A","A","B","B","A"]
+# glist.sort()
+# print(glist)
 
